@@ -18,7 +18,7 @@ datos.
 - [x] Realizar operaciones de escritura (inserción, actualización y 
 eliminación) sobre los datos. 
 
-3. Documentación: 
+### Documentación: 
 - [x] Describir la estructura de la tabla en HBase. 
 - [x] Explicar las operaciones realizadas en HBase y los resultados 
 obtenidos. 
